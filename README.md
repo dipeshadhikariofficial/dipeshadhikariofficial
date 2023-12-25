@@ -14,13 +14,13 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://dipeshadhikari.tk)**  -->
 
-- 📫 How to reach me **dipeshadhikarioffical@gmail.com**
+- 📫 How to reach me **dipeshadhikariofficial@gmail.com**
 
 - ⚡ Fun fact **I love to play games and read self development books.**
 -  I have completed projects on Movie Recommendation System, Finance Personal Dashboard Using Power BI, Laptop Price Prediction, Olympic Data Analysis
 
 
-![App Screenshot](resume.png)
+<!-- ![App Screenshot](resume.png)  for photo -->
 
 ## 🚀 Languages and Tools:
 
@@ -66,8 +66,8 @@ https://github.com/dipeshadhikarioffical/personal-dashboard
 ## 📊 My Github Stats
 
   <br/>
-    <img alt="Dipesh Adhikari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dipeshadhikarioffical&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-<img alt="Dipesh Adhikari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshadhikarioffical&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Dipesh Adhikari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dipeshadhikariofficial&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Dipesh Adhikari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshadhikariofficial&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -75,7 +75,7 @@ https://github.com/dipeshadhikarioffical/personal-dashboard
 <br/>
 <br/>
 
-<img alt="Dipesh Adhikari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dipeshadhikarioffical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img alt="Dipesh Adhikari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dipeshadhikariofficial&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -83,17 +83,17 @@ https://github.com/dipeshadhikarioffical/personal-dashboard
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/dipeshadhikarioffical/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://facebook.com/dipeshadhikarioffical"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-
-
+<a href = "bit.ly/dipeshadhikarilinkedin"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "bit.ly/dipeshadhikarifacebook"><img src="https://icons8.com/icon/lRtQAp17Ei7V/facebook-circled"/></a>
+<a href = "bit.ly/prodigypatterns"><img src="https://icons8.com/icon/p4rU35mvmXMQ/youtube-logo"/></a>
+<a href = "bit.ly/prodigypatternsblog"><img src="https://icons8.com/icon/Mpu9jzWfJVCW/link"/></a>
 
 </p>
 
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=dipeshadhikarioffical">
+    <img src="https://komarev.com/ghpvc/?username=dipeshadhikariofficial">
 </a>
-<a href="https://github.com/dipeshadhikarioffical?tab=followers"><img src="https://img.shields.io/github/followers/dipeshadhikarioffical?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/dipeshadhikariofficial?tab=followers"><img src="https://img.shields.io/github/followers/dipeshadhikariofficial?label=Followers&style=social" alt="GitHub Badge"></a>
 
