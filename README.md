@@ -48,8 +48,7 @@
 
 2. Laptop Price Prediction : https://github.com/dipeshadhikarioffical/laptop-price-prediction
 3. Olympics Data Analysis : https://github.com/dipeshadhikarioffical/olympics-data-analysis
-4. Personal Dashboard : 
-https://github.com/dipeshadhikarioffical/personal-dashboard
+4. Personal Dashboard :  https://github.com/dipeshadhikarioffical/personal-dashboard
 
 
 
@@ -59,7 +58,7 @@ https://github.com/dipeshadhikarioffical/personal-dashboard
 
 <p align="center">
     
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshadhikarioffical&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dipesh Adhikari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshadhikariofficial&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     
 </p>
 
@@ -74,9 +73,9 @@ https://github.com/dipeshadhikarioffical/personal-dashboard
 
 <br/>
 <br/>
-
+<!--
 <img alt="Dipesh Adhikari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dipeshadhikariofficial&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+-->
 <br/>
 <br/>
 
@@ -84,9 +83,9 @@ https://github.com/dipeshadhikarioffical/personal-dashboard
 <p align="left">
 
 <a href = "bit.ly/dipeshadhikarilinkedin"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "bit.ly/dipeshadhikarifacebook"><img src="https://icons8.com/icon/lRtQAp17Ei7V/facebook-circled"/></a>
-<a href = "bit.ly/prodigypatterns"><img src="https://icons8.com/icon/p4rU35mvmXMQ/youtube-logo"/></a>
-<a href = "bit.ly/prodigypatternsblog"><img src="https://icons8.com/icon/Mpu9jzWfJVCW/link"/></a>
+<a href = "bit.ly/dipeshadhikarifacebook"><img width="48" height="48" src="https://img.icons8.com/color/96/facebook-new.png" alt="facebook-new"/></a>
+<a href = "bit.ly/prodigypatterns"><img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/></a>
+<a href = "bit.ly/prodigypatternsblog"><img width="48" height="48" src="https://img.icons8.com/color/96/blogger.png" alt="blogger"/></a>
 
 </p>
 
